@@ -238,8 +238,6 @@ public class Main {
                     break;
                 //list all expense
                 case 7:
-
-                    System.out.println("allo");
                     float sumEmployee = 0;
                     float sumSubcontrator = 0;
                     float sumTotal;
